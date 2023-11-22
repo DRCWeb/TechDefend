@@ -26,6 +26,9 @@ const TechDefend = {
 }
 ```
 
+## Description of this project
+In this Project The People can learn In a didactic way about cybersecurity to protect yourself and thus be able to browse more safely, taking care of your information, data and access when driving, since the Internet has currently become a place where only those people with knowledge in the IT area can be safe, being so the idea is to propose,  Centralize and provide solutions to these problems for people of any age who wish to have this knowledge through our platform
+
 ```text
 /
 ├── public/
