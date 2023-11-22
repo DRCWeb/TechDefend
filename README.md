@@ -36,11 +36,11 @@ Currently, despite being in a state of development, it can be used, where we hav
 
  - PC/Laptop
  
-		[Insert Viewport], 
+		[Insert Viewport]
 
  - Mobile and Tablet
 
-   [Insert Viewport], 
+   [Insert Viewport] 
  
 
 ### Project Structure
