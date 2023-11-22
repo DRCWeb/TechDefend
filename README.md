@@ -32,6 +32,16 @@ In this Project The People can learn In a didactic way about cybersecurity to pr
 ## Components of our service. 
 Currently, despite being in a state of development, it can be used, where we have self-taught study methodologies classified Through continuous Bearing in mind People's time and how each one learns. 
 
+## Used in Diferente Viewports 
+
+ - PC/Laptop
+ 
+		[Insert Viewport] 
+
+ - Mobile and Tablet
+
+   [Insert Viewport]
+ 
 
 ### Project Structure
 
