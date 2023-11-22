@@ -29,6 +29,12 @@ const TechDefend = {
 ## Description of this project
 In this Project The People can learn In a didactic way about cybersecurity to protect yourself and thus be able to browse more safely, taking care of your information, data and access when driving, since the Internet has currently become a place where only those people with knowledge in the IT area can be safe, being so the idea is to propose,  Centralize and provide solutions to these problems for people of any age who wish to have this knowledge through our platform
 
+## Components of our service. 
+Currently, despite being in a state of development, it can be used, where we have self-taught study methodologies classified Through continuous Bearing in mind People's time and how each one learns. 
+
+
+### Project Structure
+
 ```text
 /
 ├── public/
@@ -52,13 +58,7 @@ In this Project The People can learn In a didactic way about cybersecurity to pr
 └── tsconfig.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
+### Deployment & Commands To Install in Development Enviorment. 
 
 All commands are run from the root of the project, from a terminal:
 
@@ -71,6 +71,8 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `pnpm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+### Documentation & Resources Used
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- Astro Document > https://docs.astro.build
+- TailwindCSS Document > https://v2.tailwindcss.com/docs
+- DaisyUI > https://daisyui.com
