@@ -1,0 +1,35 @@
+---
+// Components
+
+// Resources
+import Logo from '../assets/logo.svg'
+import Theme from '../assets/theme.svg'
+---
+<div class="navbar bg-base-100">
+  <div class="pl-4 pt-2 pb-2 flex-1">
+    <img class="logo-image mr-5" src={Logo.src} alt="Logo"></img>
+    <a class="text-xl">CodeSecurity</a>
+  </div>
+    <div class="space-x-4 flex-none">
+      <ul class="menu menu-horizontal px-1">
+        <li><a href="/" class="hover:text-gray-500">Home</a></li>
+        <li><a href="/about_us" class="hover:text-gray-500">About Us</a></li>
+        <li><a href='' class="hover:text-gray-500">Get Started</a></li>
+
+      </ul>
+      <img class="cursor:pointer text-white btn btn-ghost bg-transparent border-none" src={Theme.src} alt="A Dark or Light Selector">
+    </div>
+  </div>
+  <hr class="thin-hr">
+
+  <style>
+    .logo-image {
+      width: 4vw;
+      height: 4vh;
+    }
+    .thin-hr {
+      border: none;
+      height: 1px;
+      background: #333;
+    }
+    </style>
