@@ -76,3 +76,4 @@ All commands are run from the root of the project, from a terminal:
 - Astro Document > https://docs.astro.build
 - TailwindCSS Document > https://v2.tailwindcss.com/docs
 - DaisyUI > https://daisyui.com
+- Typescript Document > https://typescriptlang.org/docs
