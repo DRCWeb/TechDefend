@@ -37,7 +37,7 @@ Currently, despite being in a state of development, it can be used, where we hav
  - <strong>PC/Laptop</strong>
    ![Mockup Web Page](https://i.ibb.co/54k0ZPX/802shots-so.png)
 
- - Mobile and Tablet
+ - Mobile Devices
 
    ![Mockup Web Page](https://i.ibb.co/X39HDQV/120shots-so.png)
  
